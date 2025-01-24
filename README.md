@@ -7,3 +7,9 @@ pic login
 pic of system
 ![image](https://github.com/user-attachments/assets/36e8eb96-78a1-4afe-af7d-a936dea8f1f0)
 
+ordered
+![image](https://github.com/user-attachments/assets/d6dc9d91-1a4a-49e8-948c-0359637620e4)
+
+
+u can also print the recipt
+![image](https://github.com/user-attachments/assets/5a76fc7e-00d0-4b67-a1bb-89599558c46b)
